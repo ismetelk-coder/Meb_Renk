@@ -1,0 +1,22 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Arduino
+*.o
+*.a
+*.so
+*.elf
+*.hex
+
+# Build
+build/
+dist/
+*.bin
+
+# Dependencies
+node_modules/
